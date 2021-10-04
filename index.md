@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to Big Data & Web Analytics 
 
-You can use the [editor on GitHub](https://github.com/kirenz/bigdata/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Content we will cover in this course:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 	Data-Driven Decision Making
+- 	Data Science Lifecycle
+- 	Data Management and Big Data
+- 	Data Visualization with Dashboards
+- 	Web Analytics
+- 	Relational Databases & SQL
+- 	Big Data Architectures & NoSQL
+- 	Social Media Analytics
+- 	Social Network Analysis
+- 	Web Scraping
+- 	Text Mining
+- 	Machine Learning & Deep Learning
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Slides**
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Nr  | Topic | Slides 
+-- | -- | -- 
+00 | Hinweise zur Prüfungsleistung | [L01_1_case_study_stents](https://github.com/kirenz/applied-analytics/blob/main/slides/L04_1_case_study_stents.pdf) 
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+**Notebooks**
 
-[Link](url) and ![Image](src)
-```
+Nr | Lecture | Notebook | Link to GitHub | Colab Link 
+-- | -- | -- | -- | --
+02 | L01_1_case_study_stents | stents | [GitHuB](https://github.com/kirenz/modern-statistics/blob/main/01-1-stents.ipynb) | [Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-1-stents.ipynb)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kirenz/bigdata/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
