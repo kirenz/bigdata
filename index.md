@@ -1,4 +1,4 @@
-## Welcome to Big Data & Web Analytics 
+**Welcome to Big Data & Web Analytics**
 
 Content we will cover in this course:
 
