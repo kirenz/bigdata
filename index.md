@@ -26,11 +26,11 @@ Lecture|Topic|Slides
 00|Organisatorisches|[L00_1_organisatorisches.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L00_1_organisatorisches.pdf)  
 00|Dokumentation|[L00_2_dokumentation.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L00_2_dokumentation.pdf)  
 01|Data-Driven Decision Making|[L01_0_analytics_intro.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L01_0_analytics_intro.pdf)  
+
+<!--
 01|Data Science Lifecycle|[L01_1_lifecycle_intro.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L01_1_lifecycle_intro.pdf)  
 01|Data Science Lifecycle|[L01_2_lifecycle_tensorflow.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L01_2_lifecycle_tensorflow.pdf)  
 
-
-<!--
 02|Data Management and Big Data|[L02_0_data_management.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_0_data_management.pdf)  
 02|First data analysis: case study stents|[L02_1_case_study_stents.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_1_case_study_stents.pdf)  
 02|Data Basics|NA
