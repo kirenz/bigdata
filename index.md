@@ -17,6 +17,8 @@ Content we will cover in this course:
 
 ---
 
+## Lecture
+
 **Slides**
 
 Lecture|Topic|Slides
@@ -57,9 +59,98 @@ Lecture|Topic|Slides
 
 
 <!---
-**Notebooks**
+**Labs**
 
 Nr | Lecture | Notebook | Link to GitHub | Colab Link 
 -- | -- | -- | -- | --
 02 | L01_1_case_study_stents | stents | [GitHuB](https://github.com/kirenz/modern-statistics/blob/main/01-1-stents.ipynb) | [Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-1-stents.ipynb)
 -->
+
+
+---
+
+## Lab
+
+### Technology Setup
+
+
+Technology |Content | Link
+--- |---|---
+Anaconda | Data Science Platform | [Install Anaconda](https://kirenz.github.io/codelabs/codelabs/anaconda-install/#0)
+Visual Studio Code | Code editor | [Install Code](https://code.visualstudio.com/)
+Pandas | Data wrangling with Python | [Documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+Markdown | Mastering Markdown on GitHub | [GitHub Tutorial](https://guides.github.com/features/mastering-markdown/)
+Python | Introduction to Python | [Tutorial from Microsoft](https://docs.microsoft.com/de-de/learn/modules/intro-to-python/1-introduction) 
+
+
+**Update Python and Anaconda modules**
+
+- On *Windows* open the Start menu and open an Anaconda Command Prompt. 
+- On *macOS* or *Linux* open a terminal window.
+
+```bash
+conda update python
+```
+
+```bash
+conda update -all
+```
+
+**Installation of Python modules**
+
+- On *Windows* open the Start menu and open an Anaconda Command Prompt. 
+- On *macOS* or *Linux* open a terminal window.
+
+Activate your dash environment
+
+```bash
+conda activate dash
+```
+
+Install the module seaborn
+
+```bash
+conda install seaborn
+```
+
+<br>
+
+
+**Visual Studio Code Extensions**
+
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- [How to use Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+
+How to configure native bracket pair colorization:
+
+- Remove any existing Bracket Pair Colorizer extensions.
+- Update VS Code
+- Open your user settings: `CMD (CTRL for non-Mac users) + Shift + P` and type `settings`. 
+- Select `Open settings (JSON) 
+- Add the following code:
+
+```bash
+"editor.bracketPairColorization.enabled": true
+````
+
+- [More information about the native bracket pair colorization](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
+
+
+---
+
+
+### Data Visualization
+
+
+Technology |Content | Link
+--- |---|---
+Dash | Dash Setup | [Installation tutorial](https://kirenz.github.io/codelabs/codelabs/dash-setup/#0)
+Plotly | Create plots | [Documentation](https://plotly.com/python/)
+Dash | Creation of Dashboards | [Starter code](https://github.com/kirenz/dash-tutorial)
+Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/data-storytelling/blob/main/slides/seaborn_intro.pdf)
+
+
+---
+
