@@ -29,6 +29,7 @@ Lecture|Topic|Slides
 01|Data Science Lifecycle|[L01_1_lifecycle_intro.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L01_1_lifecycle_intro.pdf)  
 01|Data Science Lifecycle|[L01_2_lifecycle_tensorflow.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L01_2_lifecycle_tensorflow.pdf)  
 
+
 <!--
 02|Data Management and Big Data|[L02_0_data_management.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_0_data_management.pdf)  
 02|First data analysis: case study stents|[L02_1_case_study_stents.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_1_case_study_stents.pdf)  
@@ -55,10 +56,7 @@ Lecture|Topic|Slides
 10|Machine Learning & Deep Learning|NA
 10|Computer Vision|NA
 10|Convolutional Neural Networks|NA
--->
 
-
-<!---
 **Labs**
 
 Nr | Lecture | Notebook | Link to GitHub | Colab Link 
@@ -69,7 +67,26 @@ Nr | Lecture | Notebook | Link to GitHub | Colab Link
 
 ---
 
+
 ## Lab
+
+---
+
+
+### Data Visualization
+
+
+Technology |Content | Link
+--- |---|---
+Dash | Dash Setup | [Installation tutorial](https://kirenz.github.io/codelabs/codelabs/dash-setup/#0)
+Plotly | Create plots | [Documentation](https://plotly.com/python/)
+Dash | Creation of Dashboards | [Starter code](https://github.com/kirenz/dash-tutorial)
+Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/data-storytelling/blob/main/slides/seaborn_intro.pdf)
+
+
+---
+
+
 
 ### Technology Setup
 
@@ -138,19 +155,4 @@ How to configure native bracket pair colorization:
 - [More information about the native bracket pair colorization](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
 
 
----
-
-
-### Data Visualization
-
-
-Technology |Content | Link
---- |---|---
-Dash | Dash Setup | [Installation tutorial](https://kirenz.github.io/codelabs/codelabs/dash-setup/#0)
-Plotly | Create plots | [Documentation](https://plotly.com/python/)
-Dash | Creation of Dashboards | [Starter code](https://github.com/kirenz/dash-tutorial)
-Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/data-storytelling/blob/main/slides/seaborn_intro.pdf)
-
-
----
 
