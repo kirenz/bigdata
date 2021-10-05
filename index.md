@@ -100,6 +100,10 @@ Markdown | Mastering Markdown on GitHub | [GitHub Tutorial](https://guides.githu
 Python | Introduction to Python | [Tutorial from Microsoft](https://docs.microsoft.com/de-de/learn/modules/intro-to-python/1-introduction) 
 
 
+<br>
+
+---
+
 **Update Python and Anaconda modules**
 
 - On *Windows* open the Start menu and open an Anaconda Command Prompt. 
@@ -112,6 +116,7 @@ conda update python
 ```bash
 conda update -all
 ```
+
 
 **Installation of Python modules**
 
@@ -131,6 +136,8 @@ conda install seaborn
 ```
 
 <br>
+
+
 
 
 **Visual Studio Code Extensions**
@@ -153,6 +160,3 @@ How to configure native bracket pair colorization:
 ````
 
 - [More information about the native bracket pair colorization](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
-
-
-
