@@ -90,11 +90,16 @@ Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/dat
 
 ### Technology Setup
 
+Web-Technology|Content|Link
+---|---|---
+Google Analytics | Web Tracking | [Create account](https://analytics.google.com)
+Google Demo-Konto | Google Merchandise Store | [Demo account](https://analytics.google.com/analytics/web/demoAccount) | 
+Google Datastudio | Web Dashboard | [Create account](https://datastudio.google.com)
+
+
 
 Technology|Content|Link
 ---|---|---
-Google Analytics | Web Analytics | [Create account](https://analytics.google.com
-)
 Anaconda | Data Science Platform | [Install Anaconda](https://kirenz.github.io/codelabs/codelabs/anaconda-install/#0)
 Visual Studio Code | Code editor | [Install Code](https://code.visualstudio.com/)
 Pandas | Data wrangling with Python | [Documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
