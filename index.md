@@ -76,8 +76,8 @@ Nr | Lecture | Notebook | Link to GitHub | Colab Link
 ### Data Visualization
 
 
-Technology |Content | Link
---- |---|---
+Technology|Content|Link
+---|---|---
 Dash | Dash Setup | [Installation tutorial](https://kirenz.github.io/codelabs/codelabs/dash-setup/#0)
 Plotly | Create plots | [Documentation](https://plotly.com/python/)
 Dash | Creation of Dashboards | [Starter code](https://github.com/kirenz/dash-tutorial)
@@ -91,8 +91,8 @@ Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/dat
 ### Technology Setup
 
 
-Technology |Content | Link
---- |---|---
+Technology|Content|Link
+---|---|---
 Anaconda | Data Science Platform | [Install Anaconda](https://kirenz.github.io/codelabs/codelabs/anaconda-install/#0)
 Visual Studio Code | Code editor | [Install Code](https://code.visualstudio.com/)
 Pandas | Data wrangling with Python | [Documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
