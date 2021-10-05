@@ -84,6 +84,7 @@ Dash | Creation of Dashboards | [Starter code](https://github.com/kirenz/dash-tu
 Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/data-storytelling/blob/main/slides/seaborn_intro.pdf)
 
 
+
 ---
 
 
@@ -93,10 +94,10 @@ Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/dat
 Web-Technology|Content|Link
 ---|---|---
 Google Analytics | Web Tracking | [Create account](https://analytics.google.com)
-Google Demo-Konto | Google Merchandise Store | [Demo account](https://analytics.google.com/analytics/web/demoAccount) | 
+Google Demo-Konto | Google Merchandise Store | [Demo account](https://analytics.google.com/analytics/web/demoAccount) 
 Google Datastudio | Web Dashboard | [Create account](https://datastudio.google.com)
 
-
+<br>
 
 Technology|Content|Link
 ---|---|---
