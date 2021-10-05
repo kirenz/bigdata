@@ -91,6 +91,8 @@ Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/dat
 
 ### Technology Setup
 
+<br>
+
 Web-Technology|Content|Link
 ---|---|---
 Google Analytics | Web Tracking | [Create account](https://analytics.google.com)
