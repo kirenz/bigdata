@@ -79,7 +79,7 @@ Nr | Lecture | Notebook | Link to GitHub | Colab Link
 
 
 Case|Content|Link | Files
----|---|---
+---|---|--- | ---
 Facebook | Fintech Fallstudie | [fintech.pdf](https://github.com/kirenz/bigdata/blob/main/cases/facebook/fintech.pdf) | [Excel](https://github.com/kirenz/bigdata/blob/main/cases/facebook/fintech.xlsx)
 Werbeinventar | Onlineshop | [werbeinventar.pdf](https://github.com/kirenz/bigdata/blob/main/cases/werbeinventar/werbeinventar.pdf) | [Excel](https://github.com/kirenz/bigdata/blob/main/cases/werbeinventar/werbeinventar.xlsx)
 
