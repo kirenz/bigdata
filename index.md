@@ -77,7 +77,6 @@ Nr | Lecture | Notebook | Link to GitHub | Colab Link
 
 
 
----
 
 
 ### Data Visualization
