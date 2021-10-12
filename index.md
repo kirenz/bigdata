@@ -22,7 +22,7 @@ Content we will cover in this course:
 **Slides**
 
 Lecture|Topic|Slides | Reading 
----|---|--- |
+---|---|--- | ---
 00|Organisatorisches|[L00_1_organisatorisches.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L00_1_organisatorisches.pdf) | 
 00|Dokumentation|[L00_2_dokumentation.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L00_2_dokumentation.pdf)  |
 01|Data-Driven Decision Making|[L01_0_analytics_intro.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L01_0_analytics_intro.pdf)  |
