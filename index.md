@@ -21,11 +21,15 @@ Content we will cover in this course:
 
 **Slides**
 
-Lecture|Topic|Slides
+Lecture|Topic|Slides | Reading 
 ---|---|---
-00|Organisatorisches|[L00_1_organisatorisches.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L00_1_organisatorisches.pdf)  
-00|Dokumentation|[L00_2_dokumentation.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L00_2_dokumentation.pdf)  
-01|Data-Driven Decision Making|[L01_0_analytics_intro.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L01_0_analytics_intro.pdf)  
+00|Organisatorisches|[L00_1_organisatorisches.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L00_1_organisatorisches.pdf) | 
+00|Dokumentation|[L00_2_dokumentation.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L00_2_dokumentation.pdf)  |
+01|Data-Driven Decision Making|[L01_0_analytics_intro.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L01_0_analytics_intro.pdf)  |
+02|Web Analytics Kennzahlensystem |[L02_0_kennzahlensystem.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_0_kennzahlensystem.pdf) | [Blogpost](https://www.kaushik.net/avinash/best-web-metrics-kpis-small-medium-large-business/)  
+
+
+
 
 <!--
 01|Data Science Lifecycle|[L01_1_lifecycle_intro.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L01_1_lifecycle_intro.pdf)  
