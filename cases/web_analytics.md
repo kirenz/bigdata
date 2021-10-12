@@ -1,6 +1,20 @@
 # Web Analytics Fallstudie
 
-Szenario: Sie haben kürzlich die Leitung des *[Google Merchandise Store](https://your.googlemerchandisestore.com/Index)* übernommen und möchten sich nun einen Überblick über die Leistung der Webpräsenz verschaffen. 
+Szenario: Sie wurden kürzlich im Bereich Web-Analytics für die Optimierung des *[Google Merchandise Store](https://your.googlemerchandisestore.com/Index)* eingestellt und und sollen in diesem Zusammenhang einige Analysen durchführen. Zudem sollen Dashboards und eine Ergebnispräsentation für das Management erstellt werden.
+
+Aufgabenübersicht:
+
+1) Auswahl und Analyse relevanter Web Kennzahlen
+
+a) in Google Analytics
+b) visualisierung in Google Datastudio
+
+2) Analysen (explorativ)
+
+a) mit Excel 
+b) mit Python in Verbindung mit einem Dashboard (Dash)
+
+ Präsentation zu der Leistung der Webpräsenz erstellen. Folgende Analysen sollen umgesetzt werden.
 
 Erstellung einer 
 
