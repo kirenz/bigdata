@@ -3,13 +3,14 @@
 Content we will cover in this course:
 
 - 	Data-Driven Decision Making
-- 	Data Science Lifecycle
-- 	Data Management and Big Data
-- 	Data Visualization with Dashboards
 - 	Web Analytics
+
+- 	Social Media Analytics
+- 	Data Visualization with Dashboards
+- 	Data Management and Big Data
+- 	Data Science Lifecycle
 - 	Relational Databases & SQL
 - 	Big Data Architectures & NoSQL
-- 	Social Media Analytics
 - 	Social Network Analysis
 - 	Web Scraping
 - 	Text Mining
