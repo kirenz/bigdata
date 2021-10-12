@@ -26,7 +26,8 @@ Lecture|Topic|Slides | Reading
 00|Organisatorisches|[L00_1_organisatorisches.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L00_1_organisatorisches.pdf) | 
 00|Dokumentation|[L00_2_dokumentation.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L00_2_dokumentation.pdf)  |
 01|Data-Driven Decision Making|[L01_0_analytics_intro.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L01_0_analytics_intro.pdf)  |
-02|Web Analytics Kennzahlensystem |[L02_0_kennzahlensystem.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_0_kennzahlensystem.pdf) | [Blogpost](https://www.kaushik.net/avinash/best-web-metrics-kpis-small-medium-large-business/)  
+02|Web Analytics Kennzahlensystem |[L02_0_kennzahlensystem.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_0_kennzahlensystem.pdf) | [Article 1](https://www.kaushik.net/avinash/best-web-metrics-kpis-small-medium-large-business/), [Article 2](https://www.kaushik.net/avinash/best-web-metrics-digital-companies/)  
+02|See Think Do Framework |[L02_1_see_think_do.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_1_see_think_do.pdf) | [Article 1](https://www.kaushik.net/avinash/see-think-do-content-marketing-measurement-business-framework/), [Article 2](https://www.kaushik.net/avinash/see-think-do-care-win-content-marketing-measurement/)  
 
 
 
@@ -73,6 +74,8 @@ Nr | Lecture | Notebook | Link to GitHub | Colab Link
 
 
 ## Lab
+
+
 
 ---
 
