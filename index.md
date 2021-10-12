@@ -28,7 +28,7 @@ Lecture|Topic|Slides | Reading
 01|Data-Driven Decision Making|[L01_0_analytics_intro.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L01_0_analytics_intro.pdf)  |
 02|Web Analytics Kennzahlensystem |[L02_0_kennzahlensystem.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_0_kennzahlensystem.pdf) | [Article 1](https://www.kaushik.net/avinash/best-web-metrics-kpis-small-medium-large-business/), [Article 2](https://www.kaushik.net/avinash/best-web-metrics-digital-companies/)  
 02|See Think Do Framework |[L02_1_see_think_do.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_1_see_think_do.pdf) | [Article 1](https://www.kaushik.net/avinash/see-think-do-content-marketing-measurement-business-framework/), [Article 2](https://www.kaushik.net/avinash/see-think-do-care-win-content-marketing-measurement/)  
-
+02|Facebook Kennzahlen|[L02_2_facebook_kennzahlen.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_2_facebook_kennzahlen.pdf) | 
 
 
 
@@ -75,8 +75,13 @@ Nr | Lecture | Notebook | Link to GitHub | Colab Link
 
 ## Lab
 
+### Web Analytics
 
 
+Case|Content|Link | Files
+---|---|---
+Facebook | Fintech Fallstudie | [fintech.pdf](https://github.com/kirenz/bigdata/blob/main/cases/facebook/fintech.pdf) | [Excel](https://github.com/kirenz/bigdata/blob/main/cases/facebook/fintech.xlsx)
+Werbeinventar | Onlineshop | [werbeinventar.pdf](https://github.com/kirenz/bigdata/blob/main/cases/werbeinventar/werbeinventar.pdf) | [Excel](https://github.com/kirenz/bigdata/blob/main/cases/werbeinventar/werbeinventar.xlsx)
 
 
 ### Data Visualization
