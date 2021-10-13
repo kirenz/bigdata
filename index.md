@@ -86,6 +86,12 @@ Werbeinventar | Wirtschaftlichkeitsanalyse | [werbeinventar.pdf](https://github.
 Merchandise Shop | Analyse mit Excel Pivot | [merchandise_pivot.pdf](https://github.com/kirenz/bigdata/blob/main/cases/merchandise/merchandise_pivot.pdf) | [Excel](https://github.com/kirenz/bigdata/blob/main/cases/merchandise/merchandise_pivot.xlsx)
 
 
+Links:
+
+- [Facebook Werbeanzeigenmanager](https://de-de.facebook.com/business/ads)
+- [Google Ads Konto](https://ads.google.com/intl/de_de/home/)
+
+
 ### Data Visualization
 
 
