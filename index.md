@@ -30,7 +30,7 @@ Lecture|Topic|Slides | Reading
 02|Web Analytics Kennzahlensystem |[L02_0_Kennzahlensystem.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_0_Kennzahlensystem.pdf) | [Article 1](https://www.kaushik.net/avinash/best-web-metrics-kpis-small-medium-large-business/), [Article 2](https://www.kaushik.net/avinash/best-web-metrics-digital-companies/)  
 02|See Think Do Framework |[L02_1_see_think_do.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_1_see_think_do.pdf) | [Article 1](https://www.kaushik.net/avinash/see-think-do-content-marketing-measurement-business-framework/), [Article 2](https://www.kaushik.net/avinash/see-think-do-care-win-content-marketing-measurement/)  
 03|Facebook Kennzahlen|[L02_2_facebook_kennzahlen.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_2_facebook_kennzahlen.pdf) | 
-03| Social Media Metrics | [Präsentation + Template](https://docs.google.com/presentation/d/1kt3WFi7BVUApbJpST9nAcZ4aFTGgTtwYz7MMFK58538/edit?usp=sharing) | [Article](https://blog.hootsuite.com/de/aussagekraeftige-social-media-kennzahlen/)
+03| Social Media Metrics | [Präsentation + Template](https://docs.google.com/presentation/d/1kt3WFi7BVUApbJpST9nAcZ4aFTGgTtwYz7MMFK58538/edit?usp=sharing) | [Article 1](https://blog.hootsuite.com/de/aussagekraeftige-social-media-kennzahlen/), [Article 2](https://github.com/kirenz/bigdata/blob/main/slides/L03_1_Guide_Hootsuite.pdf) 
 
 
 
