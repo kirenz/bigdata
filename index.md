@@ -29,7 +29,10 @@ Lecture|Topic|Slides | Reading
 01|Data-Driven Decision Making|[L01_0_analytics_intro.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L01_0_analytics_intro.pdf)  |
 02|Web Analytics Kennzahlensystem |[L02_0_Kennzahlensystem.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_0_Kennzahlensystem.pdf) | [Article 1](https://www.kaushik.net/avinash/best-web-metrics-kpis-small-medium-large-business/), [Article 2](https://www.kaushik.net/avinash/best-web-metrics-digital-companies/)  
 02|See Think Do Framework |[L02_1_see_think_do.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_1_see_think_do.pdf) | [Article 1](https://www.kaushik.net/avinash/see-think-do-content-marketing-measurement-business-framework/), [Article 2](https://www.kaushik.net/avinash/see-think-do-care-win-content-marketing-measurement/)  
-02|Facebook Kennzahlen|[L02_2_facebook_kennzahlen.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_2_facebook_kennzahlen.pdf) | 
+03|Facebook Kennzahlen|[L02_2_facebook_kennzahlen.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_2_facebook_kennzahlen.pdf) | 
+03| Social Media Metrics | [Template](https://docs.google.com/presentation/d/1kt3WFi7BVUApbJpST9nAcZ4aFTGgTtwYz7MMFK58538/edit?usp=sharing) | [Article](https://blog.hootsuite.com/de/aussagekraeftige-social-media-kennzahlen/)
+
+
 
 
 
@@ -54,7 +57,7 @@ Lecture|Topic|Slides | Reading
 05|Open Source Technology|NA
 06|Social Media Analytics|NA
 06|Best Social Media Metrics (Article)|NA
-06|19 Social Media Metrics That Really Matter and How to Track Them (Article)|NA
+
 06|Social Media Metrics Guide Hootsuite (Article)|NA
 07|Web Scraping|NA
 08|Text Mining|NA
