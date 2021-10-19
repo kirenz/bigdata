@@ -87,12 +87,13 @@ Case|Content|Link | Files
 Facebook | FB-Kampagnenanalyse | [fintech.pdf](https://github.com/kirenz/bigdata/blob/main/cases/facebook/fintech.pdf) | [Excel](https://github.com/kirenz/bigdata/blob/main/cases/facebook/fintech.xlsx)
 Werbeinventar | Wirtschaftlichkeitsanalyse | [werbeinventar.pdf](https://github.com/kirenz/bigdata/blob/main/cases/werbeinventar/werbeinventar.pdf) | [Excel](https://github.com/kirenz/bigdata/blob/main/cases/werbeinventar/werbeinventar.xlsx)
 Merchandise Shop | Analyse mit Excel Pivot | [merchandise_pivot.pdf](https://github.com/kirenz/bigdata/blob/main/cases/merchandise/merchandise_pivot.pdf) | [Excel](https://github.com/kirenz/bigdata/blob/main/cases/merchandise/merchandise_pivot.xlsx)
+Facebook data | FB-Kampagnendaten | [Hinweise zu den Daten](https://de-de.facebook.com/business/help/1471948569691450?id=2391001810970883) | [CSV](https://github.com/kirenz/datasets/blob/master/Facebook_metrics.csv)
+
+
 
 
 Links:
 
-- [Facebook Werbeanzeigenmanager](https://de-de.facebook.com/business/ads)
-- [Google Ads Konto](https://ads.google.com/intl/de_de/home/)
 
 
 ---
@@ -122,6 +123,10 @@ Web-Technology|Content|Link
 Google Analytics | Web Tracking | [Create account](https://analytics.google.com)
 Google Demo-Konto | Google Merchandise Store | [Demo account](https://analytics.google.com/analytics/web/demoAccount) 
 Google Datastudio | Web Dashboard | [Create account](https://datastudio.google.com)
+Google Ads |  Werbung bei Google | [Google Ads Konto](https://ads.google.com/intl/de_de/home/)
+Facebook | Werbeanzeigenmanager | [Facebook Werbeanzeigenmanager](https://de-de.facebook.com/business/ads)
+
+
 
 <br>
 
