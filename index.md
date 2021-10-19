@@ -148,7 +148,7 @@ conda update python
 ```
 
 ```bash
-conda update -all
+conda update --all
 ```
 
 
