@@ -84,7 +84,7 @@ Nr | Lecture | Notebook | Link to GitHub | Colab Link
 
 
 Case|Content|Link | Files | Solution
----|---|--- | ---
+---|---|--- | --- |---
 Facebook | FB-Kampagnenanalyse | [fintech.pdf](https://github.com/kirenz/bigdata/blob/main/cases/facebook/fintech.pdf) | [Excel](https://github.com/kirenz/bigdata/blob/main/cases/facebook/fintech.xlsx) |
 Werbeinventar | Wirtschaftlichkeitsanalyse | [werbeinventar.pdf](https://github.com/kirenz/bigdata/blob/main/cases/werbeinventar/werbeinventar.pdf) | [Excel](https://github.com/kirenz/bigdata/blob/main/cases/werbeinventar/werbeinventar.xlsx) |
 Merchandise Shop | Analyse mit Excel Pivot | [merchandise_pivot.pdf](https://github.com/kirenz/bigdata/blob/main/cases/merchandise/merchandise_pivot.pdf) | [Excel](https://github.com/kirenz/bigdata/blob/main/cases/merchandise/merchandise_pivot.xlsx) |
