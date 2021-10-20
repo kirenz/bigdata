@@ -187,7 +187,7 @@ conda install seaborn
 - [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 - [How to use Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 
-How to configure native bracket pair colorization:
+Optional: How to configure native bracket pair colorization:
 
 - Remove any existing Bracket Pair Colorizer extensions.
 - Update VS Code
