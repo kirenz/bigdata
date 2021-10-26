@@ -1,4 +1,6 @@
-# Web Analytics Fallstudie
+# Big Data & Web Analytics Fallstudie 1
+
+> Hinweis: Die Fallstudie ist eine individuelle Leistung und darf nicht gemeinsam in einer Gruppe bearbeitet werden. 
 
 
 ## 1. See Think Do Framework (30%)
