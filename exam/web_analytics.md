@@ -6,9 +6,11 @@ Erstellen Sie eine Präsentation und nutzen Sie Screenshots für die Beantwortun
 
 ## 1. See Think Do Framework (30%)
 
-Sie wurden kürzlich von einer Unternehmensberatung im Bereich Web-Analytics eingestellt. In Ihrem ersten Projekt sollen Sie einen Online-Händler zu unterschiedlichen Fragestellung beraten. Unten finden Sie die Themen, die in diesem Zusammenhang bearbeitet werden sollen.
+Sie wurden kürzlich von einer Unternehmensberatung im Bereich Web-Analytics eingestellt. In Ihrem ersten Projekt sollen Sie einen Online-Händler zu unterschiedlichen Fragestellung beraten.
 
-*Hinweis: Für die Bearbeitung der Aufgabe können Sie eine beliebige Online-Präsenz Ihrer Wahl analysieren. Wie Webpräsenz muss jedoch ein Shop-System integriert haben (d.h. es muss die Möglichkeit bestehen Käufe zu tätigen).* 
+Unten finden Sie die Themen, die in diesem Zusammenhang bearbeitet werden sollen.
+
+*Hinweis: Für die Bearbeitung der Aufgabe können Sie eine Online-Präsenz Ihrer Wahl analysieren. Wie Webpräsenz muss jedoch ein Shop-System integriert haben (d.h. es muss die Möglichkeit bestehen, Onlinekäufe zu tätigen).* 
 
 Hier eine Entscheidungshilfe für die Wahl einer Online-Präsenz:
 
@@ -18,24 +20,42 @@ Hier eine Entscheidungshilfe für die Wahl einer Online-Präsenz:
 
 Analysieren Sie die Startseite des Online-Händlers mit Hilfe des "See-Think-Do-Framworks":
 
-- a) Zeigen Sie beispielhaft anhand einiger Elemente der Startseite auf, wie sich diese den verschiedenen Phasen des "See-Think-Do-Frameworks" zuordnen lassen können. Wählen Sie dabei (soweit möglich) jeweils mindestens 2 Elemente pro Phase aus.
+- a) Zeigen Sie beispielhaft anhand einiger Elemente der Startseite auf, wie sich diese den verschiedenen Phasen des "See-Think-Do-Frameworks" zuordnen lassen können. Wählen Sie dabei (soweit möglich) jeweils mindestens 2 Elemente pro Phase aus. 
   
-- b) Bewerten Sie die Startseite hinsichtlich der "See-Think-Do-Logik". Beschreiben Sie dabei auch, wie die Seite optimiert werden könnte.  
+- b) Bewerten Sie die Startseite hinsichtlich der "See-Think-Do-Logik". Beschreiben Sie dafür postive Aspekte und wie die Seite optimiert werden könnte.  
   
-- c) Welche Kennzahlen würden Sie für die Erfolgsmessung der ausgewählten Elemente der Startseite nutzen? Begründen Sie Ihre Auswahl und geben Sie zudem an, wie die Messung in Google Analytics erfolgen könnte (nennen Sie dafür die Bezeichnung der Kennzahl in Google Analytics).
+- c) Welche Kennzahlen würden Sie für die Erfolgsmessung der ausgewählten Elemente der Startseite nutzen? Begründen Sie Ihre Auswahl und geben Sie zudem an, wie die Messung in Google Analytics erfolgen kann (nennen Sie dafür die Bezeichnung der Kennzahl in Google Analytics).
 
 
 ## 2. Google Analytics
 
 In dieser Aufgabe nutzen wir den Google Merchandise Store Demo Account in Google Analytics. Erstellen Sie pro Aufgabe eine Seite mit einem Screenshot der Google Analytics Oberfläche und fügen Sie einen Kommentar mit der Lösung hinzu.
 
-Zeigen Sie eine Übersicht aus der ersichtlich wird:
+> Verwenden Sie als Analysezeitraum: **23. Okt. 2020 - 23. Okt. 2021**
 
-- Verwenden Sie als Zeitraum jeweils: 23. Okt. 2020 - 23. Okt. 2021
+Zeigen Sie jeweils eine Übersicht aus der ersichtlich wird:
 
 - a) Akquisition: Eine tabellarische Übersicht zu den 10 häufigsten neuen Nutzern aus unterschiedlichen Region und deren erste Nutzerinteraktion (Quelle/Medium).
 
-- 
+- b) See-Think-Do-Framwork: Zeigen Sie zu Kennzahlen mit Bezug zu der eignen Website (die also auf der eigenen Webseite gemessen werden können), wo diese in Google Analytics gefunden werden können.
+
+- c) Visualisieren Sie 3 der Kennzahlen aus 2b) in Form eines "Trichters" mit Hilfe einer ["Explorativen Trichteranalyse"](https://support.google.com/analytics/answer/9327974?hl=de) in der ["Explorativen Analyse"](https://support.google.com/analytics/answer/7579450#zippy=%2Cthemen-in-diesem-artikel) im Bereich ["Erkunden"](https://support.google.com/analytics/answer/9367631#zippy=%2Cthemen-in-diesem-artikel) in Google Analytics.
+
+## 3. Google Datastudio
+
+- Erstellen Sie zu Aufgabe 2b) ein eigenes Dashboard in Google Datastudio (nutzen Sie als Datenquelle: Google Analytics > Konto: Demo Account > Property: GA4 - Google Merchandise Store). 
+
+Hinweise:
+
+- Nutzen Sie keine Vorlage
+- Füre jede Phase sollte eine eigene Seite (Einfügen > "Neue Seite") innerhalb eines Dashboards genutzt werden.
+- Nutzen Sie für jede Phse Pivot-Tabellen und schlüsseln Sie die Kennzahlen in mindestens 2 Dimensionen Ihrer Wahl auf (bspw. Region, ... )
+- Begründen Sie die Auswahl der Dimensionen (welche Erkenntnisse können daraus abgeleitet werden?)
+- Verwenden Sie neben den Pivot-Tabellen zumindest 3 weitere unterschiedliche Diagramme.
+
+## 4. Excel oder Google Tabellen
+
+Analysieren Sie den zur verfügung gestellten Datensatz mit Hilfe von Excel oder Google Tabellen:
 
 
 Google Merchandise Store In dieser Aufgabe befassen wir uns mit dem Google Merchandise Store. Dafür nutzen wir Datensätze aus Google Analytics. Achtung: die Daten wurden aus einem deutschen Google Analytics Account importiert und müssen möglicherweise transformiert werden (Hinweis: gsub könnte hilfreich sein...). Importierte Datensätze aus Google Analytics
