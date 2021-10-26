@@ -88,7 +88,7 @@ Case|Content|Link | Files | Solution
 Facebook | FB-Kampagnenanalyse | [fintech.pdf](https://github.com/kirenz/bigdata/blob/main/cases/facebook/fintech.pdf) | [Excel](https://github.com/kirenz/bigdata/blob/main/cases/facebook/fintech.xlsx) | [Excel](https://github.com/kirenz/bigdata/blob/main/cases/facebook/fintech_lsg.xlsx) 
 Werbeinventar | Wirtschaftlichkeitsanalyse | [werbeinventar.pdf](https://github.com/kirenz/bigdata/blob/main/cases/werbeinventar/werbeinventar.pdf) | [Excel](https://github.com/kirenz/bigdata/blob/main/cases/werbeinventar/werbeinventar.xlsx) | [Excel](https://github.com/kirenz/bigdata/blob/main/cases/werbeinventar/werbeinventar_lsg.xlsx) 
 Merchandise Shop | Analyse mit Excel Pivot | [merchandise_pivot.pdf](https://github.com/kirenz/bigdata/blob/main/cases/merchandise/merchandise_pivot.pdf) | [Excel](https://github.com/kirenz/bigdata/blob/main/cases/merchandise/merchandise_pivot.xlsx) | [Excel VL](https://github.com/kirenz/bigdata/blob/main/cases/merchandise/merchandise_pivot_lab.xlsx), [Excel](https://github.com/kirenz/bigdata/blob/main/cases/merchandise/merchandise_pivot_lsg.xlsx)
-Facebook data | FB-Kampagnendaten | [Hinweise zu den Daten](https://de-de.facebook.com/business/help/1471948569691450?id=2391001810970883) | [CSV](https://github.com/kirenz/datasets/blob/master/Facebook_metrics.csv) |
+Facebook data | FB-Kampagnendaten | [Hinweise zu den Daten](https://de-de.facebook.com/business/help/1471948569691450?id=2391001810970883) | [CSV](https://github.com/kirenz/datasets/blob/master/Facebook_metrics.csv), [Excel](https://github.com/kirenz/bigdata/blob/main/cases/facebook/Facebook.xlsx) |
 
 
 
