@@ -143,7 +143,7 @@ Visual Studio Code | Code editor | [Install Code](https://code.visualstudio.com/
 Pandas | Data wrangling with Python | [Documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 Markdown | Mastering Markdown on GitHub | [GitHub Tutorial](https://guides.github.com/features/mastering-markdown/)
 Python | Introduction to Python | [Tutorial from Microsoft](https://docs.microsoft.com/de-de/learn/modules/intro-to-python/1-introduction) 
-
+Terminal | Introduction to Terminal | [Gernerl intro](https://tutorial.djangogirls.org/en/intro_to_command_line/), [only MacOS](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a) 
 
 <br>
 
