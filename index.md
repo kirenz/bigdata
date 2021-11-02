@@ -7,6 +7,7 @@ Content we will cover in this course:
 - 	Web Analytics
 - 	Social Media Analytics
 - 	Data Visualization with Dashboards
+- 	Analytics with Python
 
 - 	Data Management and Big Data
 - 	Relational Databases & SQL
@@ -30,6 +31,8 @@ Case|Topic|Description
 
 **Slides**
 
+### Web Analytics and Social Media Metrics
+
 Lecture|Topic|Slides | Reading 
 ---|---|--- | ---
 01|Data-Driven Decision Making|[L01_0_analytics_intro.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L01_0_analytics_intro.pdf)  |
@@ -37,12 +40,30 @@ Lecture|Topic|Slides | Reading
 02|See Think Do Framework |[L02_1_see_think_do.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_1_see_think_do.pdf) | [Article 1](https://www.kaushik.net/avinash/see-think-do-content-marketing-measurement-business-framework/), [Article 2](https://www.kaushik.net/avinash/see-think-do-care-win-content-marketing-measurement/)  
 03|Facebook Kennzahlen|[L02_2_facebook_kennzahlen.pdf](https://github.com/kirenz/bigdata/blob/main/slides/L02_2_facebook_kennzahlen.pdf) | 
 03| Social Media Metrics | [Präsentation + Template](https://docs.google.com/presentation/d/1kt3WFi7BVUApbJpST9nAcZ4aFTGgTtwYz7MMFK58538/edit?usp=sharing) | [Article 1](https://blog.hootsuite.com/de/aussagekraeftige-social-media-kennzahlen/), [Article 2](https://github.com/kirenz/bigdata/blob/main/slides/L03_1_Guide_Hootsuite.pdf) 
+
+
+### Analytics with Python
+
+Lecture|Topic|Slides | Notebooks 
+---|---|--- | ---
 04|Introduction to pandas|[pandas tutorial](https://kirenz.github.io/pandas/intro.html)  | [Colab](https://colab.research.google.com/github/kirenz/pandas/blob/main/1_intro.ipynb)
+01 | First data analysis: case study stents | [case_study_stents](https://github.com/kirenz/statistics/blob/main/slides/L01_1_case_study_stents.pdf) | [GitHuB](https://github.com/kirenz/modern-statistics/blob/main/01-3-passwords-c.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-3-passwords-c.ipynb)
 
 
 
+<!--
+04 | Marktkennzahlen | [marktkennzahlen.pdf](https://drive.google.com/file/d/1CUGSZizxWyp58Cg86sHWfngwaaS0YMS9/view?usp=sharing) |[Case](https://drive.google.com/file/d/1E7bEnbwc5ixaIy2pdHCOJp4Llvh2UL6S/view?usp=sharing), [Table](https://docs.google.com/spreadsheets/d/1kFW8d_cSzKzGyKYgsWNlRG6Wubf8NcpO3Y09P6-yWec/edit?usp=sharing), [Table edit](https://docs.google.com/spreadsheets/d/1sD_uxTtVebIS_FWAY9c6C1_AfGSm9HSwndCKuGul0Jk/edit?usp=sharing) |
+-->
 
 
+<!--
+Nr | Lecture | Notebook | Link to GitHub | Colab Link 
+-- | -- | -- | -- | --
+01 | Case study group differences | stents | [GitHuB](https://github.com/kirenz/modern-statistics/blob/main/01-1-stents.ipynb) | [Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-1-stents.ipynb)
+02 | Case passwords| passwords |[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)
+03 | Exploring categorical data|contingency-table-bar-plot|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)
+04 | Exploring categorical data|comparisons-across-groups|[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/04-6-comparisons-across-groups.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-6-comparisons-across-groups.ipynb)
+-->
 
 
 
