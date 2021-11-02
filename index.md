@@ -9,6 +9,7 @@ Content we will cover in this course:
 - 	Data Visualization with Dashboards
 - 	Analytics with Python
 
+
 - 	Data Management and Big Data
 - 	Relational Databases & SQL
 - 	Big Data Architectures & NoSQL
@@ -118,10 +119,6 @@ Werbeinventar | Wirtschaftlichkeitsanalyse | [werbeinventar.pdf](https://github.
 Merchandise Shop | Analyse mit Excel Pivot | [merchandise_pivot.pdf](https://github.com/kirenz/bigdata/blob/main/cases/merchandise/merchandise_pivot.pdf) | [Excel](https://github.com/kirenz/bigdata/blob/main/cases/merchandise/merchandise_pivot.xlsx) | [Excel VL](https://github.com/kirenz/bigdata/blob/main/cases/merchandise/merchandise_pivot_lab.xlsx), [Excel](https://github.com/kirenz/bigdata/blob/main/cases/merchandise/merchandise_pivot_lsg.xlsx)
 Facebook data | FB-Kampagnendaten | [Hinweise zu den Daten](https://de-de.facebook.com/business/help/1471948569691450?id=2391001810970883) | [CSV](https://github.com/kirenz/datasets/blob/master/Facebook_metrics.csv), [Excel](https://github.com/kirenz/bigdata/blob/main/cases/facebook/Facebook.xlsx) |
 
-
-
-
-Links:
 
 
 
