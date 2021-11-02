@@ -51,7 +51,7 @@ Lecture|Topic|Slides | Notebooks
 
 
 <!--
-04 | Marktkennzahlen | [marktkennzahlen.pdf](https://drive.google.com/file/d/1CUGSZizxWyp58Cg86sHWfngwaaS0YMS9/view?usp=sharing) |[Case](https://drive.google.com/file/d/1E7bEnbwc5ixaIy2pdHCOJp4Llvh2UL6S/view?usp=sharing), [Table](https://docs.google.com/spreadsheets/d/1kFW8d_cSzKzGyKYgsWNlRG6Wubf8NcpO3Y09P6-yWec/edit?usp=sharing), [Table edit](https://docs.google.com/spreadsheets/d/1sD_uxTtVebIS_FWAY9c6C1_AfGSm9HSwndCKuGul0Jk/edit?usp=sharing) |
+03 | Marktkennzahlen | [marktkennzahlen.pdf](https://drive.google.com/file/d/1CUGSZizxWyp58Cg86sHWfngwaaS0YMS9/view?usp=sharing) |[Case](https://drive.google.com/file/d/1E7bEnbwc5ixaIy2pdHCOJp4Llvh2UL6S/view?usp=sharing), [Table](https://docs.google.com/spreadsheets/d/1MlwDNgvhwJoQoh1_-HZsjKK5PW0ZdeQMKQ5GuQGP-94/edit?usp=sharing)|
 -->
 
 
