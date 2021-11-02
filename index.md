@@ -29,8 +29,6 @@ Case|Topic|Description
 
 ## Lecture
 
-**Slides**
-
 ### Web Analytics and Social Media Metrics
 
 Lecture|Topic|Slides | Reading 
@@ -47,7 +45,7 @@ Lecture|Topic|Slides | Reading
 Lecture|Topic|Slides | Notebooks 
 ---|---|--- | ---
 04|Introduction to pandas|[pandas tutorial](https://kirenz.github.io/pandas/intro.html)  | [Colab](https://colab.research.google.com/github/kirenz/pandas/blob/main/1_intro.ipynb)
-01 | First data analysis: case study stents | [case_study_stents](https://github.com/kirenz/statistics/blob/main/slides/L01_1_case_study_stents.pdf) |[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/01-1-stents-c.ipynb) | [Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-1-stents-c.ipynb)
+01 | First data analysis: case study stents | [case_study_stents](https://github.com/kirenz/statistics/blob/main/slides/L01_1_case_study_stents.pdf) |[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/01-1-stents-c.ipynb), [Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-1-stents-c.ipynb)
 
 
 
