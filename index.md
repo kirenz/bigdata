@@ -225,3 +225,4 @@ Optional: How to configure native bracket pair colorization:
 ````
 
 - [More information about the native bracket pair colorization](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
+- 
