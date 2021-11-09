@@ -47,7 +47,7 @@ Lecture|Topic|Slides | Notebooks
 ---|---|--- | ---
 01|Introduction to pandas|[pandas tutorial](https://kirenz.github.io/pandas/intro.html)  | [Colab](https://colab.research.google.com/github/kirenz/pandas/blob/main/1_intro.ipynb)
 02 | First data analysis: case study stents | [case_study_stents](https://github.com/kirenz/statistics/blob/main/slides/L01_1_case_study_stents.pdf) |[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/01-1-stents-c.ipynb), [Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-1-stents-c.ipynb), [Google Sheets](https://docs.google.com/spreadsheets/d/10ZE0-WkZbZmJtpFdoHZiFJDPPrBlxQ4AYsCumWNGhO0/edit?usp=sharing)
-03 | Marktkennzahlen | [marktkennzahlen.pdf](https://drive.google.com/file/d/1CUGSZizxWyp58Cg86sHWfngwaaS0YMS9/view?usp=sharing) |[Case](https://drive.google.com/file/d/1E7bEnbwc5ixaIy2pdHCOJp4Llvh2UL6S/view?usp=sharing), [Table](https://docs.google.com/spreadsheets/d/1MlwDNgvhwJoQoh1_-HZsjKK5PW0ZdeQMKQ5GuQGP-94/edit?usp=sharing)|
+03 | Market analysis | [marktkennzahlen.pdf](https://drive.google.com/file/d/1CUGSZizxWyp58Cg86sHWfngwaaS0YMS9/view?usp=sharing) |[Case](https://drive.google.com/file/d/1E7bEnbwc5ixaIy2pdHCOJp4Llvh2UL6S/view?usp=sharing), [Table](https://docs.google.com/spreadsheets/d/1OS4zvg8y-yJaXnrCYHJd2gb6SvMmiAatMRr-p_GlfiI/edit?usp=sharing)|
 
 
 
