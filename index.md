@@ -56,6 +56,20 @@ Lecture|Topic|Slides | Notebooks
 01|Introduction to data management|[data_management.pdf](https://github.com/kirenz/bigdata/blob/main/slides/data_management.pdf) |
 
 
+Dear Students,
+
+Here is the URL you will need to access in order to request a Google Cloud coupon. You will be asked to provide your school email address and name. An email will be sent to you to confirm these details before a coupon is sent to you.
+
+
+[Student Coupon Retrieval Link](https://gcp.secure.force.com/GCPEDU?cid=aPwqswvTrCvvmFIcFj4gwjemTG5yrJo%2FmEx6oE6%2BTRY26uVsyz7cZmLxOOc3rK8y/)
+
+
+You will be asked for a name and email address, which needs to match your school domain. A confirmation email will be sent to you with a coupon code.
+
+You can only request ONE code per unique email address.
+
+
+
 <!--
 Nr | Lecture | Notebook | Link to GitHub | Colab Link 
 -- | -- | -- | -- | --
