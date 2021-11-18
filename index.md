@@ -54,6 +54,8 @@ Lecture|Topic|Slides | Notebooks
 Lecture|Topic|Slides | Notebooks 
 ---|---|--- | ---
 01|Introduction to data management|[data_management.pdf](https://github.com/kirenz/bigdata/blob/main/slides/data_management.pdf) |
+02|Create a database in Google Cloud |[Tutorial](https://kirenz.github.io/codelabs/codelabs/cloud-mysql/#0) |
+
 
 
 
