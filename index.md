@@ -57,6 +57,14 @@ Lecture|Topic|Slides | Notebooks
 02|Create a database in Google Cloud |[Tutorial](https://kirenz.github.io/codelabs/codelabs/cloud-mysql/#0) |
 
 
+### SQL 
+
+Lecture|Topic|Slides | Notebooks 
+---|---|--- | ---
+01|Introduction to SQL |[Tasks](https://github.com/kirenz/bigdata/blob/main/slides/sql-intro.html) |
+
+<a href="https://github.com/kirenz/bigdata/blob/main/slides/sql-intro.html" download>Click to Download</a>
+
 
 
 Dear Students,
