@@ -57,14 +57,6 @@ Lecture|Topic|Slides | Notebooks
 02|Create a database in Google Cloud |[Tutorial](https://kirenz.github.io/codelabs/codelabs/cloud-mysql/#0) |
 
 
-Dear Students,
-
-Here is the URL you will need to access in order to request a Google Cloud coupon. You will be asked to provide your school email address and name. An email will be sent to you to confirm these details before a coupon is sent to you.
-
-- [Student Coupon Retrieval Link](https://gcp.secure.force.com/GCPEDU?cid=aPwqswvTrCvvmFIcFj4gwjemTG5yrJo%2FmEx6oE6%2BTRY26uVsyz7cZmLxOOc3rK8y/)
-- You will be asked for a name and email address, which needs to match your school domain. A confirmation email will be sent to you with a coupon code.
-- You can only request ONE code per unique email address.
-
 
 ### SQL 
 
@@ -189,6 +181,14 @@ Python | Introduction to Python | [Tutorial from Microsoft](https://docs.microso
 Terminal | Introduction to Terminal | [Gernerl intro](https://tutorial.djangogirls.org/en/intro_to_command_line/), [only MacOS](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a) 
 
 <br>
+
+Dear Students,
+
+Here is the URL you will need to access in order to request a Google Cloud coupon. You will be asked to provide your school email address and name. An email will be sent to you to confirm these details before a coupon is sent to you.
+
+- [Student Coupon Retrieval Link](https://gcp.secure.force.com/GCPEDU?cid=aPwqswvTrCvvmFIcFj4gwjemTG5yrJo%2FmEx6oE6%2BTRY26uVsyz7cZmLxOOc3rK8y/)
+- You will be asked for a name and email address, which needs to match your school domain. A confirmation email will be sent to you with a coupon code.
+- You can only request ONE code per unique email address.
 
 ---
 
