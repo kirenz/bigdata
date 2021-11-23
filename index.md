@@ -63,8 +63,8 @@ Lecture|Topic|Slides | Notebooks
 
 Lecture|Topic|Slides | Notebooks 
 ---|---|--- | ---
-01|Introduction to SQL | | [Download tasks](https://github.com/kirenz/bigdata/blob/main/slides/sql-intro.html.zip)
-
+01| Einführung in SQL | | [Download tasks](https://github.com/kirenz/bigdata/blob/main/slides/sql-intro.html.zip)
+02| SQL Datentypen | [slides](https://github.com/kirenz/bigdata/blob/main/slides/sql-datentypen.pdf) | [Download data](sql-datentypen-daten.zip)
 
 
 
