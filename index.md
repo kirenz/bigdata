@@ -70,7 +70,7 @@ Here is the URL you will need to access in order to request a Google Cloud coupo
 
 Lecture|Topic|Slides | Notebooks 
 ---|---|--- | ---
-01|Introduction to SQL | | [Download tasks](https://github.com/kirenz/bigdata/blob/main/slides/sql-intro.html)
+01|Introduction to SQL | | [Download tasks](https://github.com/kirenz/bigdata/blob/main/slides/sql-intro.html.zip)
 
 
 
