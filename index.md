@@ -8,10 +8,10 @@ Content we will cover in this course:
 - 	Social Media Analytics
 - 	Data Visualization with Dashboards
 - 	Analytics with Python
+- 	Relational Databases & SQL
 
 
 - 	Data Management and Big Data
-- 	Relational Databases & SQL
 - 	Big Data Architectures & NoSQL
 - 	Social Network Analysis
 - 	Web Scraping
@@ -63,7 +63,7 @@ Lecture|Topic|Slides | Notebooks
 
 Lecture|Topic|Slides | Notebooks 
 ---|---|--- | ---
-01| Einführung in SQL | | [Download tasks](https://github.com/kirenz/bigdata/blob/main/slides/sql-intro.html.zip)
+01| Einführung in SQL | | [Download task](https://github.com/kirenz/bigdata/blob/main/slides/sql-intro.html.zip)
 02| SQL Datentypen | [slides](https://github.com/kirenz/bigdata/blob/main/slides/sql-datentypen.pdf) | [Download data](https://github.com/kirenz/bigdata/blob/main/data/sql-datentypen-daten.zip)
 
 
