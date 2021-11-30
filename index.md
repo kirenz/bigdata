@@ -9,9 +9,10 @@ Content we will cover in this course:
 - 	Data Visualization with Dashboards
 - 	Analytics with Python
 - 	Relational Databases & SQL
-
-
 - 	Data Management and Big Data
+
+<br>
+
 - 	Big Data Architectures & NoSQL
 - 	Social Network Analysis
 - 	Web Scraping
@@ -55,7 +56,9 @@ Lecture|Topic|Slides | Notebooks
 ---|---|--- | ---
 01|Introduction to data management|[data_management.pdf](https://github.com/kirenz/bigdata/blob/main/slides/data_management.pdf) |
 02|Create a database in Google Cloud |[Tutorial](https://kirenz.github.io/codelabs/codelabs/cloud-mysql/#0) |
-03 | Install PostgreSQL | [Installation](https://www.postgresql.org/download/), [VS Code extension](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres), [teachers table](https://github.com/kirenz/bigdata/blob/main/data/teachers.pgsql)
+03|Install PostgreSQL | [Installation](https://www.postgresql.org/download/), [VS Code extension](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres), [teachers table](https://github.com/kirenz/bigdata/blob/main/data/teachers.pgsql)
+04|Introduction to data architectures|[data_architectures overview](https://github.com/kirenz/bigdata/blob/main/slides/data-architectures-overview.pdf) |
+04|Data architectures|[data_architectures](https://github.com/kirenz/bigdata/blob/main/slides/data-architecture.pdf) |
 
 
 
