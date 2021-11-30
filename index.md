@@ -52,13 +52,13 @@ Lecture|Topic|Slides | Notebooks
 
 ### Big Data and Data Management
 
-Lecture|Topic|Slides | Notebooks 
----|---|--- | ---
-01|Introduction to data management|[Data management](https://github.com/kirenz/bigdata/blob/main/slides/data_management.pdf) |
-02|Create a database in Google Cloud |[Tutorial](https://kirenz.github.io/codelabs/codelabs/cloud-mysql/#0) |
+Lecture|Topic|Slides  
+---|---|--- | 
+01|Introduction to data management|[Data management](https://github.com/kirenz/bigdata/blob/main/slides/data_management.pdf) 
+02|Create a database in Google Cloud |[Tutorial](https://kirenz.github.io/codelabs/codelabs/cloud-mysql/#0) 
 03|Install PostgreSQL | [Installation](https://www.postgresql.org/download/), [VS Code extension](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres), [teachers table](https://github.com/kirenz/bigdata/blob/main/data/teachers.pgsql)
-04|Introduction to data architectures|[Data architectures overview](https://github.com/kirenz/bigdata/blob/main/slides/data-architectures-overview.pdf) |
-04|Data architectures|[Data architectures](https://github.com/kirenz/bigdata/blob/main/slides/data-architecture.pdf) |
+04|Introduction to data architectures|[Data architectures overview](https://github.com/kirenz/bigdata/blob/main/slides/data-architectures-overview.pdf) 
+04|Data architectures|[Data architectures](https://github.com/kirenz/bigdata/blob/main/slides/data-architecture.pdf) 
 
 
 
