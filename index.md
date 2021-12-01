@@ -20,7 +20,8 @@ Content we will cover in this course:
 - 	Text Mining
 - 	Machine Learning & Deep Learning
 
-## Case Study
+## Case Study (Assignment)
+
 
 Case|Topic|Description 
 ---|---|---
@@ -158,7 +159,7 @@ Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/dat
 
 
 
-### Technology Setup
+## TECHNOLOGY SETUP
 
 <br>
 
