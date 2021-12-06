@@ -70,7 +70,7 @@ Lecture|Topic|Slides | Notebooks
 01| Einführung in SQL | [Slides, Lösungen](https://github.com/kirenz/bigdata/blob/main/slides/sql-intro.pdf) | [Download task](https://github.com/kirenz/bigdata/blob/main/slides/sql-intro.html.zip)
 02| SQL Datentypen | [slides](https://github.com/kirenz/bigdata/blob/main/slides/sql-datentypen.pdf) | [Download data](https://github.com/kirenz/bigdata/blob/main/data/sql-datentypen-daten.zip)
 02| SQL Code data types | [SQL](https://github.com/kirenz/bigdata/blob/main/slides/sql/code-char_data_types.pgsql) | 
-03| SQL Joins | [slides](https://github.com/kirenz/bigdata/blob/main/slides/sql-joins.pdf) | 
+03| SQL Joins | [slides](https://github.com/kirenz/bigdata/blob/main/slides/sql-joins.pdf) | [Illustration of Joins](https://kirenz.github.io/data-science/course-materials/slides/u2-d08-multi-df/u2-d08-multi-df.html#1)
 
 
 
