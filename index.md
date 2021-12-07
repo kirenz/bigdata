@@ -182,7 +182,7 @@ Pandas | Data wrangling with Python | [Documentation](https://pandas.pydata.org/
 Markdown | Mastering Markdown on GitHub | [GitHub Tutorial](https://guides.github.com/features/mastering-markdown/)
 Python | Introduction to Python | [Tutorial from Microsoft](https://docs.microsoft.com/de-de/learn/modules/intro-to-python/1-introduction) 
 Terminal | Introduction to Terminal | [Gernerl intro](https://tutorial.djangogirls.org/en/intro_to_command_line/), [only MacOS](https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a) 
-Twitter | Twitter Account | [Hilfestellung](https://docs.google.com/document/d/1tUv5Y3vbr_OGx-ahlH1cJFE_j13UKt11WBR27fznBxI/edit?usp=sharing)
+Twitter | Twitter Account | [Hilfestellung](https://docs.google.com/document/d/1tUv5Y3vbr_OGx-ahlH1cJFE_j13UKt11WBR27fznBxI/edit?usp=sharing), [Tutorial](https://developer.twitter.com/en/docs/tutorials/step-by-step-guide-to-making-your-first-request-to-the-twitter-api-v2)
 
 
 <br>
