@@ -72,6 +72,14 @@ Lecture|Topic|Slides | Notebooks
 02| SQL Code data types | [SQL](https://github.com/kirenz/bigdata/blob/main/slides/sql/code-char_data_types.pgsql) | 
 03| SQL Joins | [slides](https://github.com/kirenz/bigdata/blob/main/slides/sql-joins.pdf) | [Illustration of Joins](https://kirenz.github.io/data-science/course-materials/slides/u2-d08-multi-df/u2-d08-multi-df.html#1)
 
+### Natural Language Processing and Twitter
+
+
+Lecture|Topic|Slides | Notebooks 
+---|---|--- | ---
+01| Twitter and Tweepy setup  | [Notebook](https://github.com/kirenz/twitter-tweepy/blob/main/twitter-tweepy.ipynb) |
+
+
 
 
 <!--
