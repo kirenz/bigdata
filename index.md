@@ -10,6 +10,8 @@ Content we will cover in this course:
 - 	Analytics with Python
 - 	Relational Databases & SQL
 - 	Data Management and Big Data
+- 	Text Mining
+
 
 <br>
 
@@ -17,7 +19,6 @@ Content we will cover in this course:
 - 	Social Network Analysis
 - 	Web Scraping
 - 	Data Science Lifecycle
-- 	Text Mining
 - 	Machine Learning & Deep Learning
 
 ## Case Study (Assignment)
@@ -30,9 +31,9 @@ Case|Topic|Description
 
 ---
 
-## Lecture
+# Lecture
 
-### Web Analytics and Social Media Metrics
+## Web Analytics and Social Media Metrics
 
 Lecture|Topic|Slides | Reading 
 ---|---|--- | ---
@@ -43,7 +44,7 @@ Lecture|Topic|Slides | Reading
 03| Social Media Metrics | [Präsentation + Template](https://docs.google.com/presentation/d/1kt3WFi7BVUApbJpST9nAcZ4aFTGgTtwYz7MMFK58538/edit?usp=sharing) | [Article 1](https://blog.hootsuite.com/de/aussagekraeftige-social-media-kennzahlen/), [Article 2](https://github.com/kirenz/bigdata/blob/main/slides/L03_1_Guide_Hootsuite.pdf) 
 
 
-### Analytics with Python
+## Analytics with Python
 
 Lecture|Topic|Slides | Notebooks 
 ---|---|--- | ---
@@ -51,7 +52,7 @@ Lecture|Topic|Slides | Notebooks
 02 | First data analysis: case study stents | [case_study_stents](https://github.com/kirenz/statistics/blob/main/slides/L01_1_case_study_stents.pdf) |[GitHuB](https://github.com/kirenz/modern-statistics/blob/main/01-1-stents-c.ipynb), [Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-1-stents-c.ipynb), [Google Sheets](https://docs.google.com/spreadsheets/d/10ZE0-WkZbZmJtpFdoHZiFJDPPrBlxQ4AYsCumWNGhO0/edit?usp=sharing)
 03 | Market analysis | [marktkennzahlen.pdf](https://drive.google.com/file/d/1CUGSZizxWyp58Cg86sHWfngwaaS0YMS9/view?usp=sharing) |[Case](https://drive.google.com/file/d/1E7bEnbwc5ixaIy2pdHCOJp4Llvh2UL6S/view?usp=sharing), [Table](https://docs.google.com/spreadsheets/d/1OS4zvg8y-yJaXnrCYHJd2gb6SvMmiAatMRr-p_GlfiI/edit?usp=sharing), [Colab Notebook](https://colab.research.google.com/github/kirenz/bigdata/blob/main/cases/marktkennzahlen/market-analysis.ipynb), [Data source](https://github.com/kirenz/bigdata/tree/main/data)|
 
-### Big Data and Data Management
+## Big Data and Data Management
 
 Lecture|Topic|Slides  
 ---|---|--- | 
@@ -62,8 +63,7 @@ Lecture|Topic|Slides
 04|Data architectures|[Data architectures](https://github.com/kirenz/bigdata/blob/main/slides/data-architecture.pdf) 
 
 
-
-### SQL 
+## SQL 
 
 Lecture|Topic|Slides | Notebooks 
 ---|---|--- | ---
@@ -72,7 +72,7 @@ Lecture|Topic|Slides | Notebooks
 02| SQL Code data types | [SQL](https://github.com/kirenz/bigdata/blob/main/slides/sql/code-char_data_types.pgsql) | 
 03| SQL Joins | [slides](https://github.com/kirenz/bigdata/blob/main/slides/sql-joins.pdf) | [Illustration of Joins](https://kirenz.github.io/data-science/course-materials/slides/u2-d08-multi-df/u2-d08-multi-df.html#1)
 
-### Natural Language Processing and Twitter
+## Text Mining and Twitter
 
 
 Lecture|Topic|Slides | Notebooks 
@@ -134,9 +134,9 @@ Nr | Lecture | Notebook | Link to GitHub | Colab Link
 ---
 
 
-## Lab
+# Lab
 
-### Web Analytics
+## Web Analytics
 
 
 Case|Content|Link | Files | Solution
@@ -151,7 +151,7 @@ Facebook data | FB-Kampagnendaten | [Hinweise zu den Daten](https://de-de.facebo
 
 ---
 
-### Data Visualization
+## Data Visualization
 
 
 Technology|Content|Link
@@ -167,7 +167,7 @@ Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/dat
 
 
 
-## TECHNOLOGY SETUP
+# TECHNOLOGY SETUP
 
 <br>
 
@@ -196,16 +196,6 @@ Twitter | Twitter Account | [Doc](https://docs.google.com/document/d/1tUv5Y3vbr_
 [Python](https://github.com/twitterdev/Twitter-API-v2-sample-code/blob/main/Recent-Search/recent_search.py), [python-twitter](https://pypi.org/project/python-twitter-v2/)
 -->
 
-
-<br>
-
-Dear Students,
-
-Here is the URL you will need to access in order to request a Google Cloud coupon. You will be asked to provide your school email address and name. An email will be sent to you to confirm these details before a coupon is sent to you.
-
-- [Student Coupon Retrieval Link](https://gcp.secure.force.com/GCPEDU?cid=aPwqswvTrCvvmFIcFj4gwjemTG5yrJo%2FmEx6oE6%2BTRY26uVsyz7cZmLxOOc3rK8y/)
-- You will be asked for a name and email address, which needs to match your school domain. A confirmation email will be sent to you with a coupon code.
-- You can only request ONE code per unique email address.
 
 ---
 
@@ -251,18 +241,4 @@ conda install seaborn
 - [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 - [How to use Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
-
-Optional: How to configure native bracket pair colorization:
-
-- Remove any existing Bracket Pair Colorizer extensions.
-- Update VS Code
-- Open your user settings: `CMD (CTRL for non-Mac users) + Shift + P` and type `settings`. 
-- Select `Open settings (JSON) 
-- Add the following code:
-
-```bash
-"editor.bracketPairColorization.enabled": true
-````
-
-- [More information about the native bracket pair colorization](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
 
