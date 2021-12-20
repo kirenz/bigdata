@@ -14,12 +14,10 @@ Content we will cover in this course:
 
 
 <br>
-
+- 	Machine Learning & Deep Learning
 - 	Big Data Architectures & NoSQL
 - 	Social Network Analysis
 - 	Web Scraping
-- 	Data Science Lifecycle
-- 	Machine Learning & Deep Learning
 
 ## Case Study (Assignments)
 
