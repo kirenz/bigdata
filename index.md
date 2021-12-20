@@ -27,7 +27,7 @@ Case|Topic|Description
 ---|---|---
 01|Web Analytics & Social Media Analytics |[Case](https://github.com/kirenz/bigdata/blob/main/exam/web_analytics.md) 
 02|SQL Case |[Case](https://colab.research.google.com/github/kirenz/SQL-Introduction/blob/main/8-sql-gapminder/sql-task-gapminder-happy-2020.ipynb) 
-
+03 | Text Mining with Twitter data | wird noch bereitgestellt
 
 ---
 
