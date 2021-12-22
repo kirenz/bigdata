@@ -19,6 +19,7 @@ Content we will cover in this course:
 - 	Social Network Analysis
 - 	Web Scraping
 
+
 ## Case Study (Assignments)
 
 Case|Topic|Description 
