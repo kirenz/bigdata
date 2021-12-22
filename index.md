@@ -69,13 +69,10 @@ Lecture|Topic|Slides | Notebooks
 02| SQL Datentypen | [slides](https://github.com/kirenz/bigdata/blob/main/slides/sql-datentypen.pdf) | [Download data](https://github.com/kirenz/bigdata/blob/main/data/sql-datentypen-daten.zip)
 02| SQL Code data types | [SQL](https://github.com/kirenz/bigdata/blob/main/slides/sql/code-char_data_types.pgsql) | 
 03| SQL Joins | [slides](https://github.com/kirenz/bigdata/blob/main/slides/sql-joins.pdf) | [Illustration of Joins](https://kirenz.github.io/data-science/course-materials/slides/u2-d08-multi-df/u2-d08-multi-df.html#1)
-04| SQL case study preparation |  | [Colab](https://colab.research.google.com/github/kirenz/SQL-Introduction/blob/main/8-sql-gapminder/sql-alchemy.ipynb)
-
-
+04| SQL case study preparation |  | [Create table with Pandas](https://colab.research.google.com/github/kirenz/SQL-Introduction/blob/main/8-sql-gapminder/sql-postgres-pandas.ipynb), [SQL in VS Code](https://colab.research.google.com/github/kirenz/SQL-Introduction/blob/main/8-sql-gapminder/sql-postgres-vscode.ipynb), [SQL in Jupyter Notebook](https://colab.research.google.com/github/kirenz/SQL-Introduction/blob/main/8-sql-gapminder/sql-postgres-jupyter.ipynb)
 
 
 ## Text Mining and Twitter
-
 
 Lecture|Topic|Slides | Notebooks 
 ---|---|--- | ---
