@@ -14,10 +14,10 @@ Content we will cover in this course:
 
 
 <br>
-- 	Machine Learning & Deep Learning
-- 	Big Data Architectures & NoSQL
-- 	Social Network Analysis
-- 	Web Scraping
+- 	Machine Learning & Deep Learning  
+- 	Big Data Architectures & NoSQL  
+- 	Social Network Analysis  
+- 	Web Scraping  
 
 
 ## Case Study (Assignments)
