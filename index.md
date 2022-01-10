@@ -11,22 +11,22 @@ Content we will cover in this course:
 - 	Relational Databases & SQL
 - 	Data Management and Big Data
 - 	Text Mining
-
-
 <br>
-- 	Machine Learning & Deep Learning  
-- 	Big Data Architectures & NoSQL  
+
+
 - 	Social Network Analysis  
-- 	Web Scraping  
+- 	(Machine Learning & Deep Learning)  
+- 	(Big Data Architectures & NoSQL)  
+- 	(Web Scraping)  
 
 
 ## Case Study (Assignments)
 
 Case|Topic|Description 
 ---|---|---
-01|Web Analytics & Social Media Analytics |[Case](https://github.com/kirenz/bigdata/blob/main/exam/web_analytics.md) 
-02|SQL Case |[Case](https://colab.research.google.com/github/kirenz/SQL-Introduction/blob/main/8-sql-gapminder/sql-task-gapminder-happy-2020.ipynb) 
-03 | Text Mining with Twitter data | wird noch bereitgestellt
+01|Web Analytics & Social Media Analytics |[Case](https://github.com/kirenz/bigdata/blob/main/exam/web_analytics.md), 35%
+02|SQL Case |[Case](https://colab.research.google.com/github/kirenz/SQL-Introduction/blob/main/8-sql-gapminder/sql-task-gapminder-happy-2020.ipynb), 25% 
+03 | Analyse und Visualisierung von Twitter Daten | [Case](https://github.com/kirenz/bigdata/blob/main/exam/twitter-analyse.md), 40% 
 
 ---
 
