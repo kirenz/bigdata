@@ -24,9 +24,9 @@ Content we will cover in this course:
 
 Case|Topic|Description 
 ---|---|---
-01|Web Analytics & Social Media Analytics |[Case](https://github.com/kirenz/bigdata/blob/main/exam/web_analytics.md), 35%
-02|SQL Case |[Case](https://colab.research.google.com/github/kirenz/SQL-Introduction/blob/main/8-sql-gapminder/sql-task-gapminder-happy-2020.ipynb), 25% 
-03 | Analyse und Visualisierung von Twitter Daten | [Case](https://github.com/kirenz/bigdata/blob/main/exam/twitter-analyse.md), 40% 
+01|Web Analytics & Social Media Analytics |[Case](https://github.com/kirenz/bigdata/blob/main/exam/web_analytics.md); 35%
+02|SQL Case |[Case](https://colab.research.google.com/github/kirenz/SQL-Introduction/blob/main/8-sql-gapminder/sql-task-gapminder-happy-2020.ipynb); 25% 
+03 | Analyse und Visualisierung von Twitter Daten | [Case](https://github.com/kirenz/bigdata/blob/main/exam/twitter-analyse.md); 40% 
 
 ---
 
@@ -234,9 +234,6 @@ conda install seaborn
 ```
 
 <br>
-
-
-
 
 **Visual Studio Code Extensions**
 
