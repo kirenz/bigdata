@@ -82,6 +82,12 @@ Lecture|Topic|Slides | Notebooks
 01| Twitter and Tweepy setup  |  | [Tutorial](https://colab.research.google.com/github/kirenz/twitter-tweepy/blob/main/twitter-tweepy.ipynb)
 02 | Text Mining with NLTK | | [Tutorial](https://colab.research.google.com/github/kirenz/twitter-tweepy/blob/main/textmining-nltk.ipynb)
 
+## Network Analysis
+
+Lecture|Topic|Slides | Notebooks 
+---|---|--- | ---
+01| Network Analysis | [Tutorial](https://github.com/kirenz/python-notebooks/blob/main/network-analysis/social-network-analysis.pdf) |
+
 
 
 
