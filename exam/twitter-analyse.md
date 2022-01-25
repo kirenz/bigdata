@@ -19,7 +19,7 @@ Hinweise zu der Bearbeitung der Fallstudie:
 
 ## 2. Netzwerkanalyse (35%)
 
-- Führen Sie eine ausführliche Netzwerkanalyse der [Facebook-Daten](https://snap.stanford.edu/data/ego-Facebook.html) mit den Ihnen bekannten Inhalten durch (siehe Vorlesungsunterlagen).
+- Führen Sie eine ausführliche Netzwerkanalyse der [Facebook-Daten](https://snap.stanford.edu/data/ego-Facebook.html) mit den Ihnen bekannten Inhalten (ohne Analyse der indiciduellen Nodes) durch (siehe Vorlesungsunterlagen).
 
 ## 3. Visualisierung in einem Dashboard (30%)
 
