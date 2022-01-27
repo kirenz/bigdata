@@ -20,7 +20,7 @@ Hinweise zu der Bearbeitung der Fallstudie:
 ## 2. Netzwerkanalyse (35%)
 
 - Führen Sie eine Netzwerkanalyse anhand dieser [Facebook-Daten](https://snap.stanford.edu/data/ego-Facebook.html) durch. Da der Datensatz viele Nodes enthält, sollen keine Analysen für einzelne Nodes durchgeführt werden (d.h. keine Ausgabe von Ergebnissen, in welchen für jeden einzelnen Node eine Kennzahl berechnet wird). 
-- 
+  
 ## 3. Visualisierung in einem Dashboard (30%)
 
 - Visualisieren Sie die Ergebnisse des Textminings und der Netzwerkanalyse mit Hilfe eines Dashboards in Dash. 
