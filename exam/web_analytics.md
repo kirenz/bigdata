@@ -30,7 +30,7 @@ Analysieren Sie die Startseite des Online-Händlers mit Hilfe des "See-Think-Do-
 - d) Identifizieren Sie in dem Kampagnendatensatz der Plattform Facebook ([Excel Daten](https://github.com/kirenz/bigdata/blob/main/cases/facebook/Facebook.xlsx)) die See-Think-Do-Kennzahlen mit Bezug zu Social Media. 
 
 
-## 2. Google Analytics (15%)
+## 2. Google Analytics (20%)
 
 In dieser Aufgabe nutzen wir den Google Merchandise Store Demo Account in Google Analytics. Erstellen Sie pro Aufgabe eine Seite in Ihrer Prsäentation mit einem Screenshot der Google Analytics Oberfläche und fügen Sie Kommentar hinzu.
 
