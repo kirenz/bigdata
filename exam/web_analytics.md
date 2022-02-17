@@ -56,7 +56,7 @@ Hinweise:
 - Begründen Sie die Auswahl der Dimensionen (welche Erkenntnisse können daraus abgeleitet werden?)
 - Verwenden Sie neben den Pivot-Tabellen zumindest 3 weitere unterschiedliche Diagrammarten.
 
-## 4. Social Media Analyse (20%)
+## 4. Social Media Analyse (25%)
 
 Analysieren Sie den Kampagnendatensatz "Facebook" ([Excel Daten](https://github.com/kirenz/bigdata/blob/main/cases/facebook/Facebook.xlsx)) mit Hilfe von Excel Pivot oder Google Pivot.
 
