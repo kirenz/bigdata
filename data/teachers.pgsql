@@ -1,4 +1,4 @@
--- Erzeuge Database
+-- Erzeuge Tabelle
 CREATE TABLE teachers (
     id serial,
     first_name varchar(25),
@@ -8,7 +8,7 @@ CREATE TABLE teachers (
     salary numeric
 );
 
--- Erzeuge Tabelle
+-- Werte einfügen
 INSERT INTO teachers (first_name, last_name, school, hire_date, salary)
 VALUES ('Janet', 'Smith', 'F.D. Roosevelt HS', '2011-10-30', 36200), 
        ('Lee', 'Reynolds', 'F.D. Roosevelt HS', '1993-05-22', 65000),
