@@ -1,4 +1,4 @@
-## Welcome to Big Data & Web Analytics!
+## Welcome to Big Data & Web Analytics
 
 ![](img/img.jpg)
 
